@@ -7,3 +7,5 @@ it's easy and(&) simple to construct a branch named dev.
 
 
 add merge
+
+stash2
