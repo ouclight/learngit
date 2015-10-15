@@ -11,3 +11,4 @@ add merge
 stash2
 
 #using utf-8
+#!/usr/bin/env
